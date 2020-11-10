@@ -39,7 +39,7 @@
 
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFA518)&nbsp;
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=Ruby%20on%20Rails&logoColor=FFA518)&nbsp;
-![Phoneix](https://img.shields.io/badge/-Phoneix-333333?style=flat&logo=Phoneix&logoColor=FFA518)&nbsp;
+![Phoenix](https://img.shields.io/badge/-Phoneix-333333?style=flat&logo=Phoneix&logoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=python)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)&nbsp;
 
