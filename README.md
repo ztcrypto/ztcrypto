@@ -39,11 +39,10 @@
 
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFA518)&nbsp;
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=Ruby%20on%20Rails&logoColor=FFA518)&nbsp;
-![Phoenix](https://img.shields.io/badge/-Phoneix-333333?style=flat&logo=Phoneix&logoColor=FFA518)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=python)&nbsp;
+![Phoenix](https://img.shields.io/badge/-Phoenix-333333?style=flat&logo=Phoneix&logoColor=FFA518)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)&nbsp;
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
