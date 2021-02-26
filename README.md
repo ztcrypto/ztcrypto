@@ -1,7 +1,7 @@
 <h3 align="left">
  <abc>
   <br>👋 Hi, I'm Tony Zhou.<br>
-  <br> I'm a Fullstack Blockchain Developer. <br>
+  <br> I'm a Fullstack Blockchain Developer. Defi specialist. <br>
  </abc>
 </h3>
 
