@@ -11,7 +11,7 @@
 <a href="https://twitter.com/tzhou_vue">
   <img align="left" alt="Tony | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/tonyzhouv">
+<a href="https://www.linkedin.com/in/ztcrypto">
   <img align="left" alt="Tony's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/cryptodefidev">
