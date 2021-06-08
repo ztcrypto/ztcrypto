@@ -47,12 +47,3 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=DynamoDB)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat-flat&logo=Redis)
-
-
-<strong>Statistics</strong>
-<br>
-
-<!-- My GitHub stats with buefy theme ❤️ -->
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ztcrypto&show_icons=true&theme=radical" alt="my github stats" width="420"/>
-</p>
