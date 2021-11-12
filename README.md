@@ -3,16 +3,6 @@
   <br> I'm a Blockchain Developer. Defi specialist. <br>
  </abc>
 </h3>
-
-<a href="https://discord.gg/AmnQrRtZ">
-  <img align="left" alt="Tony's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/tzhou_vue">
-  <img align="left" alt="Tony | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/ztdeficrypto">
-  <img align="left" alt="Tony's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 <br>
 
 ### Languages
