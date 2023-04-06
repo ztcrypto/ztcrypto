@@ -1,6 +1,6 @@
 <h3 align="left">
  <abc>
-  <br> I'm a Blockchain Developer. Defi specialist. <br>
+  <br> I'm a Sr. Fullstack Developer. Blockchain specialist. <br>
  </abc>
 </h3>
 <br>
